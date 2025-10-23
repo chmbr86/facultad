@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="proyectoConversionMedidas.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="25" Y="20"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="conversion_medidas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Conversion_Medidas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="4"/>
+        <CursorPos Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="metodosauxiliaresmath.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MetodosAuxiliaresMath"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="25" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="1">
+      <Position>
+        <Filename Value="proyectoConversionMedidas.lpr"/>
+        <Caret Line="5" Column="25" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="metodosauxiliaresmath.pas"/>
+        <Caret Column="27"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

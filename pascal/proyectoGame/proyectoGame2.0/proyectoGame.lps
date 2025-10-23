@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="proyectoGame.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="30"/>
+        <CursorPos X="38" Y="49"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="menu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Menu"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="29"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="logicapac.pas"/>
+        <UnitName Value="logicaPac"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="517"/>
+        <CursorPos X="17" Y="387"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="73" Column="14" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="70" Column="5" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="11" Column="48"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="394" Column="25" TopLine="380"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="391" Column="48" TopLine="380"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="395" Column="48" TopLine="385"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="11" Column="59"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="254" Column="54" TopLine="243"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="72" Column="25" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="11" Column="69"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="443" Column="47" TopLine="432"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="387" Column="4" TopLine="376"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="436" Column="47" TopLine="425"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="437" Column="47" TopLine="426"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="543" Column="35" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="436" Column="47" TopLine="425"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="542" Column="33" TopLine="518"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="536" Column="28" TopLine="523"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="437" Column="47" TopLine="427"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="539" Column="41" TopLine="524"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="436" Column="47" TopLine="426"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="94" Column="55"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="405" TopLine="138"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="413" Column="25" TopLine="142"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="254" Column="56" TopLine="241"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="271" Column="63" TopLine="258"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="287" Column="63" TopLine="274"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="303" Column="61" TopLine="290"/>
+      </Position>
+      <Position>
+        <Filename Value="logicaPac.pas"/>
+        <Caret Line="383" Column="67" TopLine="526"/>
+      </Position>
+      <Position>
+        <Filename Value="proyectoGame.pas"/>
+        <Caret Line="45" Column="16" TopLine="32"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
